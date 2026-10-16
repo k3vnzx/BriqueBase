@@ -1,0 +1,6 @@
+{
+  "name": "BRIQUEI",
+  "description": "Aplicativo profissional de briques e revenda de iPhones, smartphones e eletrônicos com controle de estoque, fluxo de caixa, vistoria 12 etapas, metas, comprovantes e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
